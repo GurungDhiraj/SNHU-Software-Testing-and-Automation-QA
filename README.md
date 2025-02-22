@@ -9,7 +9,9 @@ Course Competencies:
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
 
 CS-30415: Create unit tests using code to uncover errors
+
 CS-30416: Analyze various approaches to software testing based on requirements
+
 CS-30417: Apply appropriate testing strategies to meet requirements
 
 Questions:
