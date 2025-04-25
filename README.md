@@ -1,10 +1,10 @@
 # SNHU CS320: Software Testing and Automation QA
 
-<ins>**Course Description:**<ins>
+## <ins>**Course Description:**<ins>
 
 Students will apply software engineering testing strategies and practices as part of the software development life cycle, including requirements analysis, verification and validation, and quality management. The creation of unit tests and analysis of various testing approaches will also be covered.
 
-<ins>**Course Competencies:**<ins>
+## <ins>**Course Competencies:**<ins>
 
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
 
@@ -14,7 +14,7 @@ CS-30416: Analyze various approaches to software testing based on requirements
 
 CS-30417: Apply appropriate testing strategies to meet requirements
 
-<ins>**Questions:**<ins>
+## <ins>**Questions:**<ins>
 
 Q: How can I ensure that my code, program, or software is functional and secure?
 
